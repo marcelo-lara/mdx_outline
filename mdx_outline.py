@@ -137,12 +137,12 @@ See also
 
 
 import re
-from markdown.util import etree
+import xml.etree.ElementTree as etree
 from markdown import Extension
 from markdown.treeprocessors import Treeprocessor
 
 
-__version__ = "1.3.0"
+__version__ = "1.3.2"
 
 
 class OutlineProcessor(Treeprocessor):
