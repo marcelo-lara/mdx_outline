@@ -96,7 +96,7 @@ Non consecutive headers shouldn't be a problem:
 Dependencies
 ------------
 
-* [Markdown 2.0+](http://www.freewisdom.org/projects/python-markdown/)
+* [Markdown >2.0 < 3.3](http://www.freewisdom.org/projects/python-markdown/)
 
 
 Copyright
